@@ -1,0 +1,6 @@
+{
+  "name": "Snake Beats",
+  "description": "A neon-cyberpunk retro Snake game with an integrated music player and progressive difficulty.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
